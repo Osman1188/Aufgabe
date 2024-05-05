@@ -1,0 +1,14 @@
+D:\Users\abdullah\csharp\aufgabe1\bin\Debug\net8.0\aufgabe1.exe
+D:\Users\abdullah\csharp\aufgabe1\bin\Debug\net8.0\aufgabe1.deps.json
+D:\Users\abdullah\csharp\aufgabe1\bin\Debug\net8.0\aufgabe1.runtimeconfig.json
+D:\Users\abdullah\csharp\aufgabe1\bin\Debug\net8.0\aufgabe1.dll
+D:\Users\abdullah\csharp\aufgabe1\bin\Debug\net8.0\aufgabe1.pdb
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\aufgabe1.AssemblyInfoInputs.cache
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\aufgabe1.AssemblyInfo.cs
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\aufgabe1.csproj.CoreCompileInputs.cache
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\aufgabe1.dll
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\refint\aufgabe1.dll
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\aufgabe1.pdb
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\aufgabe1.genruntimeconfig.cache
+D:\Users\abdullah\csharp\aufgabe1\obj\Debug\net8.0\ref\aufgabe1.dll
